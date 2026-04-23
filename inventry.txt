@@ -1,0 +1,4 @@
+mobile 2 50000
+laptop 4 55000
+Earbuds 5 2000
+speaker 10 5000
